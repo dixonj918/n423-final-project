@@ -1,6 +1,6 @@
 ## About Project
 
-Created CRUD application based on a food menu for a supply company.
+Created CRUD application based on a food menu for a supply company for IUPUI n423 Final Project.
 
 ## How to access CRUD
 
